@@ -42,7 +42,7 @@ De plus, à côté des ecrans il y a des images avec les réponses corréctes.
 Pour que ça soit plus clair pour vous, j'ai enregistré [mon petit blog sur YouTube.](https://youtu.be/HBgw46AmXJ8) <br>
 
 ## Ce que j'ai aimé le plus:
-Selon moi, c'estait un des experiences les plus intéressants et intéractifs sur cette exposition. La mise en scene et aussi facile à reproduir: juste des ecrans, un table, des poubelles, une boîte
+Selon moi, c'estait un des experiences les plus intéressants et intéractifs sur cette exposition. La mise en scene et aussi facile à reproduir: juste des ecrans, un table, des murs en carton, des poubelles, une boîte et le plus important- LES BONBONS. Je pense que peut-être le plus difficile est de faire des statistiques. En fait, je l'aime parce que c'est facile et savoureux.
 
 **Reférénces et géneriques** <br>
 ![photo](medias/banquet_gerneriques_1.jpg)
