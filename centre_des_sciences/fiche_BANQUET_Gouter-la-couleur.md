@@ -9,7 +9,7 @@ Le **31 janvier,** ma groupe de d’œuvres et de dispositifs multimédias et mo
 
 ![photo](medias/gouter_la_couleur.jpg)
 
-L'œuvre que j'ai aimé le plus- "Goûter la couleur" ou "Goût du rose". Ce dispositif a été crée par **"Univercience"** en 2021 *(plus des détails sur l'image)*.
+L'œuvre que j'ai aimé le plus- "Goûter la couleur" ou "Goût du rose". Ce dispositif a été crée par **"Universcience"**- centre de sciences à Paris, en 2021 *(plus des détails sur l'image)*.
 
 ![photo](medias/gout_du_rose_generiques.jpg)
 
