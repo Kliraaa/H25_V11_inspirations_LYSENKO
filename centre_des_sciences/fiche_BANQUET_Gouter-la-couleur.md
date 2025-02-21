@@ -5,7 +5,7 @@ Centre des sciences de Montréal *sourse d'image par [Centre des sciences](https
 
 ![photo](medias/banquet_entree_rada.jpg)
 # Context
-Le **31 janvier** ma groupe de d’œuvres et de dispositifs multimédias et moi avons fait une visite dans le **Centre des sciences de Montréal** pour une exposition intéractive **"Banquet"**.
+Le **31 janvier** ma groupe de d’œuvres et de dispositifs multimédias et moi avons fait une visite dans le **Centre des sciences de Montréal** pour une exposition intéractive intérieure temporaire (16 mai 2024 - 16 mars 2025) **"Banquet"**.
 # Goûter la couleur
 [Mon petit blog sur YouTube](https://youtu.be/HBgw46AmXJ8) <br>
 **Reférénces** <br>
