@@ -13,6 +13,7 @@ L'œuvre que j'ai aimé le plus- "Goûter la couleur" ou "Goût du rose". Ce dis
 
 ![photo](medias/gout_du_rose_generiques.jpg)
 
+Le principe de fonctionnement de ce dispositif est assez facile:
 ![photo](medias/en_quelque_mots.jpg)
 
 [Mon petit blog sur YouTube](https://youtu.be/HBgw46AmXJ8) <br>
