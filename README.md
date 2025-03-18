@@ -1,1 +1,1 @@
-Hellooooo! I'm a student in College Montmorency in TIM programm
+Salut! Je suis une étudiante en Collège Montmorency en programme TIM
