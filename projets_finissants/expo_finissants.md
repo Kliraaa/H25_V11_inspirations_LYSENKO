@@ -37,8 +37,48 @@ Pour réaliser ce projet, il nous faut étudier les cours de: **Programmation in
 
 Ce qui m’a le plus intrigué, c'est la technique de capture vidéo de la planche à dessin, qui, grâce à une caméra, enregistre les dessins en temps réel, garantissant une synchronisation fluide et précise entre les éléments visuels et sonores.
 
+## Sources
+<a href="https://pootpookies.github.io/Prismatica/#/">Source des photos et des informations</a>
+
 
 # Internature
+<div align="center">
+  <img src="https://tprangers.github.io/internature/thumbnail.jpg" height="300px"> <img src="medias_resonance/internature_general.jpg" height="300px">
+</div> <br>
+<div align="center">
+  <img src="medias_resonance/cartel_internature.jpg" width="880px">
+</div> <br>
+
+*Internature* est un tunnel immersif où le mapping vidéo interactif recouvre les parois, accompagné d’une musique d’ambiance et de bruitages. L’utilisateur évolue dans un environnement de nature synthétique et peut interagir avec une boule pour modifier et enrichir l'environnement. Cette interaction déclenche un spectacle lumineux réactif au toucher, invitant à une réflexion sur l’impact de l’humain sur son environnement.
+
+## Équipe
+**Khaly Tia Sing**: Chargé de projet <br>
+**Isaac Fafard**: Programmeur <br>
+**Delphine Grenier**: conception visuel et programeuse <br>
+**Sitmonternna Yi**: Mapping vidéo et conception sonore <br>
+**Kenza El Harrif**: Directrice artistique
+
+
+## Installation
+<div align="center">
+  <img src="https://tprangers.github.io/internature/30_production/60_plantation/plantation_serre_3d.jpg" width="500px">
+  <img src="https://tprangers.github.io/internature/30_production/60_plantation/plantation_sphere.jpg" width="500px">
+  <img src="https://tprangers.github.io/internature/40_maquette/maquette-02.jpg" width="500px"> 
+</div>
+
+## Sensation
+Je me santais comme une déesse qui contrôle le monde autour d'elle. ЗАКОНЧИТЬ
+
+## Cours requis
+Pour réaliser ce projet, il nous faut étudier les cours de: **Traitement audiovisuel / Web 4 / Objets Interactif / Audio 2/**
+
+## Technique utilisé
+
+Ce qui m’a le plus intrigué, c'est la technique de capture vidéo de la planche à dessin, qui, grâce à une caméra, enregistre les dessins en temps réel, garantissant une synchronisation fluide et précise entre les éléments visuels et sonores. ЗАМЕНИТЬ 
+
+## Sources
+<a href="https://tprangers.github.io/internature/#/">Source des photos et des informations</a>
+
 
 # Arcadia
 
