@@ -42,6 +42,29 @@ Développeur interactif</td>
 </table> 
 
 ## Fonction du dispositif multimédia
+### Scénarimage fait par l'équipe
+ <table align="center">
+<tr>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934671-e4dfde1d-f9e2-4773-baec-e67c2fdf2be4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043430Z&X-Amz-Expires=300&X-Amz-Signature=cdbb0af375a00d368b659dbbe645dd54fdad9aac1b256833bff30086002470d3&X-Amz-SignedHeaders=host" width="300px"></td>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934672-c7294406-c778-4d22-8875-f9a106b76851.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043435Z&X-Amz-Expires=300&X-Amz-Signature=4d2ea485b295d704c8577c65e3cf2fb2f4dfbb9d27c9461cef2e2be753657368&X-Amz-SignedHeaders=host" width="300px"></td>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934674-bb930f3a-341f-42d8-8987-1a853905ce38.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043441Z&X-Amz-Expires=300&X-Amz-Signature=ff3c47907f62a4544c12cf6388bb33db63e9d946e016f2775c9db9fdd6abd380&X-Amz-SignedHeaders=host" width="300px"></td>
+</tr>
+<tr>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934678-c5cbe835-2fc9-4468-a16b-26cb198bc1d8.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043445Z&X-Amz-Expires=300&X-Amz-Signature=545b87aeccc7cd8ab0ef7d26bce3dd13f95cf9385baa6b46a9d0019a07d8fbc2&X-Amz-SignedHeaders=host" width="300px"></td>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934692-d1ae0c62-b2e5-47d1-9999-50731e80181c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043451Z&X-Amz-Expires=300&X-Amz-Signature=9ae05f1b369ab9fb7e10e52bfba6d75719495a5f37c6f7ab7c889fad2430118f&X-Amz-SignedHeaders=host" width="300px"></td>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934668-d3634592-e75b-4453-86df-2fdd342951c9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043454Z&X-Amz-Expires=300&X-Amz-Signature=dbf2715a9e209417261bfe6f1a82ad4cd8778b5a87c21fc26b264d8ff0d10e16&X-Amz-SignedHeaders=host" width="300px"></td>
+</tr>
+<tr>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934680-308a61b9-826d-4f18-8540-d0b49ce33f38.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043457Z&X-Amz-Expires=300&X-Amz-Signature=8fc4062da14a5e0b3806356c70e7c2baa1f7a62577d34a7731e8fd12c4d8af4b&X-Amz-SignedHeaders=host" width="300px"></td>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934681-88ea7d98-7d1e-49c7-929f-d5a565d9695b.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043500Z&X-Amz-Expires=300&X-Amz-Signature=eb3cc17c1f625bfca0009567b7d93692a62f03beeae0f3c7d1274f1df10413e4&X-Amz-SignedHeaders=host" width="300px"></td>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934682-5bf9b373-a02b-4bc9-bc5b-c090bc25a374.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043503Z&X-Amz-Expires=300&X-Amz-Signature=ad879596cf01cef00e1f57ef5e3bfdd3cfc1ef4ad8b86636271cb9da669e78ba&X-Amz-SignedHeaders=host" width="300px"></td>
+</tr>
+<tr>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934685-ed7284d6-a523-4155-a1c1-6360bd27b7b9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043506Z&X-Amz-Expires=300&X-Amz-Signature=0d9edcc312b8a3f612dc5fefda61413838e88070b03ec4626dfc1d6c809353b1&X-Amz-SignedHeaders=host" width="300px"></td>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934689-49a38693-c762-4694-a1e5-104674b5cd26.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043514Z&X-Amz-Expires=300&X-Amz-Signature=7c1f59a2d5aa9434a452dba51a987867a117173666824ffe5adee02dea823441&X-Amz-SignedHeaders=host" width="300px"></td>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934670-4e64ac03-fd7e-4225-a625-d53253a260c2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043520Z&X-Amz-Expires=300&X-Amz-Signature=568910955584acfedb4d1fa92c4f06bddfad3f0ae54db2dbdeb19e7965803ca7&X-Amz-SignedHeaders=host" width="300px"></td>
+</tr>
+</table>
 
 ## Mise en espace
 
