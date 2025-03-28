@@ -110,12 +110,12 @@ Développeur interactif</td>
 </table>
 
 ### Logiciels
+- Puredata - Création musicale et multimédia en temps réel
+- Plugdata - Programmation visuel pour l’expérimentation audio, le prototypage
 -	TouchInDesigner – Gestion des projections
--	Max – Environnement sonore
+-	QLC+ – Gestion des lumières
 -	Reaper – Montage audio
 -	Arduino – Programmation des capteurs capacitifs
--	QLC+ – Gestion des lumières
--	LogData – Synchronisation des interactions
 
 ## Expérience vécue
 Mon experience: https://youtube.com/shorts/jXJaEOByhPg?feature=share 
