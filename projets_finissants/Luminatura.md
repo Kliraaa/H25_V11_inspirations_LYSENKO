@@ -1,19 +1,16 @@
-<h1 align="center">Luminatura - Mon oprojet préféré de Resonance</h1>
+<h1 align="center">Luminatura - Mon oprojet préféré de Résonance</h1>
 <p align="center">
   <img src="medias/logo.png">
 </p> 
-<p align="center"><a href="https://miaou-mafia.github.io/projet-luminatura/#/">Sourse d'image - equipe de Lumunatura sur GitHub</a> </p> <br>
 
 Le **18 mars dans le collège Montmorency (C1712),** mon classe de d’œuvres et de dispositifs multimédias et moi avons fait une visite dans **l'éxposition intéractive** intérieure temporaire (17-21 mars 2025) **Résonance**, qui démontre les **projets des finissants du programme de techniques d'intégration multimédia**. Principalement, cet exposition est orienté vers tous les étudiants de collège Montmorency, mais nous avons fait la visite pour voir ce que nous allons faire dans 2 ans dans notre programme.
 
 ## Luminatura
-
 <p align="center">
   <img src="medias/moi_et_rada.jpg">
 </p> 
-Mon experience: https://youtube.com/shorts/jXJaEOByhPg?feature=share 
-https://youtube.com/shorts/hTXFvGfL0nw
-Video des auteurs: https://youtu.be/i6xJno_NFSc
+Luminatura est une installation interactive qui fusionne nature et technologie. En touchant une plaque métallique, le capteur capacitif détecte la conductivité de la peau des mains et en responce envoie des effets de lumière sur des fleurs lumineuses et des lanternes, aussi que des sons. En mettant en évidence notre capacité à transmettre l’énergie, elle symbolise notre pouvoir d’éclairer et de transformer le monde autour de nous, offrant une expérience immersive et poétique.<br> 
+Le projet a été en réalisation de 20 Janvier à 21 mars 2025.
 
 ## Equipe
 ![photo]()
@@ -39,6 +36,10 @@ Programmeuse et administratrice</td>
 <td><b>Ihab Mouhajer</b> <br>
 Développeur interactif</td>
 </tr>
-<tr>
 </table> 
+
+## Sources
 <a href="https://miaou-mafia.github.io/projet-luminatura/#/10_equipe/">Sourse des images - equipe de Lumunatura sur GitHub</a>
+Mon experience: https://youtube.com/shorts/jXJaEOByhPg?feature=share 
+https://youtube.com/shorts/hTXFvGfL0nw
+<a href="https://youtu.be/i6xJno_NFSc">Video des auteurs</a>
