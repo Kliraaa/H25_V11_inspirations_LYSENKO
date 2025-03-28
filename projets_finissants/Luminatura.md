@@ -1,7 +1,7 @@
 <h1 align="center">Luminatura - Mon oprojet préféré de Résonance</h1>
-<p align="center">
-  <img src="medias/logo_gitLuminatura.png" width="500px"> <img src="medias/baniere.jpg" width="500px">
-</p> 
+<div align="center">
+  <img src="medias/logo_gitLuminatura.png" width="500px"> <img src="medias/baniere.jpg" width="400px">
+</div> <br>
 
 Le **18 mars dans le collège Montmorency (local C1712),** ma classe d’œuvres et de dispositifs multimédias a fait une visite dans **l'éxposition intéractive** intérieure temporaire (17-21 mars 2025) **Résonance**, qui démontre les **projets des finissants du programme de techniques d'intégration multimédia**. Principalement, cette exposition est orientée vers tous les étudiants de collège Montmorency, mais nous avons fait la visite pour voir ce que nous allons faire dans 2 ans dans notre programme.
 <p align="center">
@@ -12,7 +12,7 @@ Le **18 mars dans le collège Montmorency (local C1712),** ma classe d’œuvres
 <p align="center">
   <img src="medias/cartel_luminatura.jpg">
 </p>
-Luminatura est une installation interactive qui fusionne nature et technologie. En touchant une plaque métallique, le capteur capacitif détecte la conductivité de la peau des mains et en responce envoie des effets de lumière sur des fleurs lumineuses et des lanternes, aussi que des sons. En mettant en évidence notre capacité à transmettre l’énergie, elle symbolise notre pouvoir d’éclairer et de transformer le monde autour de nous, offrant une expérience immersive et poétique.<br> 
+Luminatura est une installation interactive qui fusionne nature et technologie. En touchant une plaque métallique, le capteur capacitif détecte la conductivité de la peau des mains et en responce envoie des effets de lumière sur des fleurs lumineuses et des lanternes, aussi que des sons. En mettant en évidence la capacité humaine à transmettre l’énergie, elle symbolise notre pouvoir d’éclairer et de transformer le monde autour de nous, offrant une expérience immersive et poétique.<br> 
 Le projet a été en réalisation dès le 20 Janvier et finallement presenté le 21 mars 2025.
 
 ## Equipe
