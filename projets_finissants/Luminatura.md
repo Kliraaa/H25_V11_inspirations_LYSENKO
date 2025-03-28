@@ -110,19 +110,21 @@ Développeur interactif</td>
 </table>
 
 ### Logiciels
-- Puredata - Création musicale et multimédia en temps réel
-- Plugdata - Programmation visuel pour l’expérimentation audio, le prototypage
--	TouchInDesigner – Gestion des projections
--	QLC+ – Gestion des lumières
--	Reaper – Montage audio
--	Arduino – Programmation des capteurs capacitifs
+- **Puredata** - Création musicale et multimédia en temps réel
+- **Plugdata** - Programmation visuel pour l’expérimentation audio, le prototypage
+-	**TouchInDesigner** – Gestion des projections
+-	**QLC+** – Gestion des lumières
+-	**Reaper** – Montage audio
+-	**Arduino** – Programmation des capteurs capacitifs
 
 ## Expérience vécue
 Mon experience: https://youtube.com/shorts/jXJaEOByhPg?feature=share 
 https://youtube.com/shorts/hTXFvGfL0nw
 ## Mon opinion
-
+J'ai vraiment aimé l'idée mignonne et inspirante, aussi que la réalisation fianle du projet. J'ai toujours aimé le thème de la lumière colorée et j'aimerais installer quelque chose de similaire chez moi. Je pourrais peut-être réaliser un projet similaire lorsque viendra le temps pour moi et mes camarades de classe de créer des projets finaux, même si tout cela semble très compliqué et demande beaucoup de travail. Cependant, après avoir parlé aux finissants, j'ai réalisé que tout n'est pas aussi effrayant qu'il y paraît, car nous ne sommes maintenant qu'en première année d'études. <br>
+La seule chose que je n'ai pas tellement apptrecié, étant un utilisateur, c'est que nous n'etendons vraiment le sons et que si je voudrais touches 3 plaques au même temps- je ne peux pas, car elles sont placées trop loigne.
 ## Sources
 <a href="https://miaou-mafia.github.io/projet-luminatura/#/10_equipe/">Sourse des images - equipe de Lumunatura sur GitHub</a> /
 <a href="https://youtu.be/i6xJno_NFSc">Video des auteurs</a> /
 <a href="https://miaou-mafia.github.io/projet-luminatura/#/">GitHub des auteurs</a> /
+Mon visite à Résonance/
