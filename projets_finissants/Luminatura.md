@@ -1,6 +1,6 @@
 <h1 align="center">Luminatura - Mon oprojet préféré de Résonance</h1>
 <p align="center">
-  <img src="medias/logo_gitLuminatura.png" width="500px"> <img src="medias/" width="500px">
+  <img src="medias/logo_gitLuminatura.png" width="500px"> <img src="medias/baniere.jpg" width="500px">
 </p> 
 
 Le **18 mars dans le collège Montmorency (local C1712),** ma classe d’œuvres et de dispositifs multimédias a fait une visite dans **l'éxposition intéractive** intérieure temporaire (17-21 mars 2025) **Résonance**, qui démontre les **projets des finissants du programme de techniques d'intégration multimédia**. Principalement, cette exposition est orientée vers tous les étudiants de collège Montmorency, mais nous avons fait la visite pour voir ce que nous allons faire dans 2 ans dans notre programme.
