@@ -48,6 +48,19 @@ Développeur interactif</td>
 <div align="center"><img src="medias/croquis_pupitre.jpg" width="500px"></div>
 
 ### Experience des utulisateurs
+1.	*Interaction avec les plaques métalliques:* 
+-	L’utilisateur se met devant la palque et le touche.
+-	Le capteur de capacitance détecte la peau et modifie la lumière et l’audio selon les caractéristiques de l’utilisateur.
+2.	*Effet multi-utilisateurs:* 
+-	Jusqu'à trois participants simultanés influencent les variations sonores et lumineuses.
+-	Plus d’interactions entraînent des changements plus dynamiques.
+-	Si tous les utilisateurs retirent leurs mains, le système retourne en mode veille avec une lumière et un son de base.
+3.	*Structure et projection:* 
+-	Lanternes, ampoules et vignes suspendues au plafond.
+-	Projection vidéo au sol avec des couleurs ternes en veille et plus dynamiques en interaction.
+4. *Mode veille:*
+ 	Lorsque tous les utilisateurs retirent leurs mains, l’installation revient à un état neutre avec des couleurs plus ternes et une ambiance sonore douce.
+
 ### Scénarimage fait par l'équipe
  <table align="center">
 <tr>
