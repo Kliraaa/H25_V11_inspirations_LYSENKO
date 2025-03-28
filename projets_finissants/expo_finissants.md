@@ -30,7 +30,7 @@ Le **18 mars dans le collège Montmorency (local C1712),** ma classe d’œuvres
 Étant une personne artistique, j'ai eu envie de dessiner sur le tableu pour très longtemps car c'etait très facinant de voir ton dessin, mais en ecran et illuminé.
 
 ## Cours requis
-Pour réaliser ce projet, il nous faut étudier les cours de: Programmation interactive / Traitement audiovisuel / Audio
+Pour réaliser ce projet, il nous faut étudier les cours de: **Programmation interactive / Traitement audiovisuel / Audio**
 
 ## Technique utilisé
 
