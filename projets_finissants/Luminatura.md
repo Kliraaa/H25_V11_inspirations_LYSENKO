@@ -41,11 +41,16 @@ Développeur interactif</td>
 </tr>
 </table> 
 
+## Fonction du dispositif multimédia
 
+## Mise en espace
+
+## Composantes et techniques
 
 ## Expérience vécue
 Mon experience: https://youtube.com/shorts/jXJaEOByhPg?feature=share 
 https://youtube.com/shorts/hTXFvGfL0nw
+## Mon opinion
 
 ## Sources
 <a href="https://miaou-mafia.github.io/projet-luminatura/#/10_equipe/">Sourse des images - equipe de Lumunatura sur GitHub</a>
