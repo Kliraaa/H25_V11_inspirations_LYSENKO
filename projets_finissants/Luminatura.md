@@ -3,7 +3,7 @@
   <img src="medias/logo.png">
 </p> 
 
-Le **18 mars dans le collège Montmorency (C1712),** mon classe de d’œuvres et de dispositifs multimédias et moi avons fait une visite dans **l'éxposition intéractive** intérieure temporaire (17-21 mars 2025) **Résonance**, qui démontre les **projets des finissants du programme de techniques d'intégration multimédia**. Principalement, cet exposition est orienté vers tous les étudiants de collège Montmorency, mais nous avons fait la visite pour voir ce que nous allons faire dans 2 ans dans notre programme.
+Le **18 mars dans le collège Montmorency (local C1712),** mon classe d’œuvres et de dispositifs multimédias et moi avons fait une visite dans **l'éxposition intéractive** intérieure temporaire (17-21 mars 2025) **Résonance**, qui démontre les **projets des finissants du programme de techniques d'intégration multimédia**. Principalement, cet exposition est orienté vers tous les étudiants de collège Montmorency, mais nous avons fait la visite pour voir ce que nous allons faire dans 2 ans dans notre programme.
 <p align="center">
   <img src="medias/moi_et_rada.jpg">
 </p>
