@@ -1,5 +1,4 @@
-# Luminatura - Mon oprojet préféré
-
+<h1 align="center">Luminatura - Mon oprojet préféré</h1>
 <p align="center">
   <img src="medias/logo.png">
 </p> 
