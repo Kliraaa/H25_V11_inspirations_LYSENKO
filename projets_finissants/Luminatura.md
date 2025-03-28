@@ -44,8 +44,10 @@ Développeur interactif</td>
 </table> 
 
 ## Fonctionnement du dispositif multimédia
-### Croquis
-<div align="center"><img src="medias/croquis_pupitre.jpg" width="500px"></div>
+### Croquis et médias
+<div>
+  <img src="medias/croquis_pupitre.jpg" width="500px"><img src="medias/pupitre.png" height="500px"><img src="medias/capteur.jpg" height="400px"><img src="medias/haut-parleur.png" height="400px"><img src="medias/prise.jpg" height="300px"><img src="medias/prise_details.jpg" height="300px"><img src="medias/ordis_Camilia.jpg" height="500px"><img src="medias/projecteur.jpg" height="500px">
+</div>
 
 ### Experience des utulisateurs
 1.	*Interaction avec les plaques métalliques:* 
@@ -90,7 +92,31 @@ Développeur interactif</td>
 
 ## Composantes et techniques
 ### Équipements
+<table>
+  <tr>
+    <td>
+      Équipement fourni par les étudiants
+    </td>
+<td>10-15 vignes artificielles en plastique, 6 ampoules LED, 3 plaques en acier, 2 lanternes, 6 extensions pour lumière (câbles), 1 tissu (3m) de couleur jaune, 1 tissu (3m) de couleur rose, 1 tissu (3m) de couleur blanche, 3 résistances, 1 câble en acier, 6 câbles métalliques en acier inoxydable, Ruban adhésif métallique, transmitteur DMX, Vis, Serre-câbles, Bâtons de colle chaud.
+</td>
+    </tr>
+  <tr>
+        <td>
+      Équipement fourni par le collège
+    </td>
+    <td>Câbles (HDMI, Ethernet, audio), 1 PC, 1 ordinateur portable, 3 haut-parleurs GENELEC 8030C, 3 support (support des haut-parleurs), 6 supports imprimés en 3D, 5 câble DMX, 1 carte de son, 3 microcontrôleur Atom M5, 5 câbles Ethernet.
+      </td>
+    </tr>
+</table>
+
 ### Logiciels
+-	TouchInDesigner – Gestion des projections
+-	Max – Environnement sonore
+-	Reaper – Montage audio
+-	Arduino – Programmation des capteurs capacitifs
+-	QLC+ – Gestion des lumières
+-	LogData – Synchronisation des interactions
+
 ## Expérience vécue
 Mon experience: https://youtube.com/shorts/jXJaEOByhPg?feature=share 
 https://youtube.com/shorts/hTXFvGfL0nw
