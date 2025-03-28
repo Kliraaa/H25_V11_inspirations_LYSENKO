@@ -1,11 +1,11 @@
 <h1 align="center">Luminatura - Mon oprojet préféré de Résonance</h1>
 <p align="center">
-  <img src="medias/logo.png" width="500px"> <img src="medias/logo.png" width="500px">
+  <img src="medias/logo_gitLuminatura.png" width="500px"> <img src="medias/" width="500px">
 </p> 
 
 Le **18 mars dans le collège Montmorency (local C1712),** ma classe d’œuvres et de dispositifs multimédias a fait une visite dans **l'éxposition intéractive** intérieure temporaire (17-21 mars 2025) **Résonance**, qui démontre les **projets des finissants du programme de techniques d'intégration multimédia**. Principalement, cette exposition est orientée vers tous les étudiants de collège Montmorency, mais nous avons fait la visite pour voir ce que nous allons faire dans 2 ans dans notre programme.
 <p align="center">
-  <img src="medias/moi_et_rada.jpg"> размер, заменить
+  <img src="medias/moi_et_rada.jpg">
 </p>
 
 ## Luminatura
@@ -16,7 +16,9 @@ Luminatura est une installation interactive qui fusionne nature et technologie. 
 Le projet a été en réalisation dès le 20 Janvier et finallement presenté le 21 mars 2025.
 
 ## Equipe
-![photo]() команда когда вставишь фото
+<p align="center">
+  <img src="medias/equipe.jpg">
+</p>
 <table align="center">
 <tr>
 <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/407594262-98d86d56-53e8-4d55-80bf-c463199ffbd7.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T000440Z&X-Amz-Expires=300&X-Amz-Signature=62f3bf9025289c1cd82d53e8a420e685f9d2ed51134b05d9126c94b4e6623d02&X-Amz-SignedHeaders=host" width="200px"></td>
