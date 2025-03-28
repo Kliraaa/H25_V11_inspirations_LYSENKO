@@ -51,7 +51,7 @@ Développeur interactif</td>
 </tr>
 <tr>
 <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934678-c5cbe835-2fc9-4468-a16b-26cb198bc1d8.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043445Z&X-Amz-Expires=300&X-Amz-Signature=545b87aeccc7cd8ab0ef7d26bce3dd13f95cf9385baa6b46a9d0019a07d8fbc2&X-Amz-SignedHeaders=host" width="300px"></td>
-<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934692-d1ae0c62-b2e5-47d1-9999-50731e80181c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043451Z&X-Amz-Expires=300&X-Amz-Signature=9ae05f1b369ab9fb7e10e52bfba6d75719495a5f37c6f7ab7c889fad2430118f&X-Amz-SignedHeaders=host" width="300px"></td>
+<td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934681-88ea7d98-7d1e-49c7-929f-d5a565d9695b.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T044249Z&X-Amz-Expires=300&X-Amz-Signature=70efc1b7f420df83be87f9b03a376223a81673696e82562a684b32cf6968b415&X-Amz-SignedHeaders=host" width="300px"></td>
 <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112189908/408934668-d3634592-e75b-4453-86df-2fdd342951c9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250328%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250328T043454Z&X-Amz-Expires=300&X-Amz-Signature=dbf2715a9e209417261bfe6f1a82ad4cd8778b5a87c21fc26b264d8ff0d10e16&X-Amz-SignedHeaders=host" width="300px"></td>
 </tr>
 <tr>
