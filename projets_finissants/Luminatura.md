@@ -10,10 +10,10 @@ Le **18 mars dans le collège Montmorency (C1712),** mon classe de d’œuvres e
 
 ## Luminatura
 <p align="center">
-  <img src="medias/moi_et_rada.jpg">
+  <img src="medias/cartel_luminatura.jpg">
 </p>
 Luminatura est une installation interactive qui fusionne nature et technologie. En touchant une plaque métallique, le capteur capacitif détecte la conductivité de la peau des mains et en responce envoie des effets de lumière sur des fleurs lumineuses et des lanternes, aussi que des sons. En mettant en évidence notre capacité à transmettre l’énergie, elle symbolise notre pouvoir d’éclairer et de transformer le monde autour de nous, offrant une expérience immersive et poétique.<br> 
-Le projet a été en réalisation de 20 Janvier à 21 mars 2025.
+Le projet a été en réalisation dès le 20 Janvier et finallement presenté le 21 mars 2025.
 
 ## Equipe
 ![photo]()
@@ -41,8 +41,11 @@ Développeur interactif</td>
 </tr>
 </table> 
 
-## Sources
-<a href="https://miaou-mafia.github.io/projet-luminatura/#/10_equipe/">Sourse des images - equipe de Lumunatura sur GitHub</a>
+## Expérience vécue
 Mon experience: https://youtube.com/shorts/jXJaEOByhPg?feature=share 
 https://youtube.com/shorts/hTXFvGfL0nw
+
+## Sources
+<a href="https://miaou-mafia.github.io/projet-luminatura/#/10_equipe/">Sourse des images - equipe de Lumunatura sur GitHub</a>
 <a href="https://youtu.be/i6xJno_NFSc">Video des auteurs</a>
+<a href="https://miaou-mafia.github.io/projet-luminatura/#/">GitHub des auteurs</a>
