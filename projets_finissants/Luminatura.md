@@ -3,7 +3,7 @@
   <img src="medias/logo_gitLuminatura.png" width="500px"> <img src="medias/baniere.jpg" width="400px">
 </div> <br>
 
-Le **18 mars dans le collège Montmorency (local C1712),** ma classe d’œuvres et de dispositifs multimédias a fait une visite dans **l'éxposition intéractive** intérieure temporaire (17-21 mars 2025) **Résonance**, qui démontre les **projets des finissants du programme de techniques d'intégration multimédia**. Principalement, cette exposition est orientée vers tous les étudiants de collège Montmorency, mais nous avons fait la visite pour voir ce que nous allons faire dans 2 ans dans notre programme.
+Le **18 mars dans le collège Montmorency (local C1712),** ma classe d’œuvres et de dispositifs multimédias a visité dans **l'éxposition intéractive** intérieure temporaire (17-21 mars 2025) **Résonance**, qui présente  les **projets des finissants du programme de techniques d'intégration multimédia**. Principalement destinée à tous les étudiants du collège Montmorency, cette exposition nous a permis de découvrir ce que nous réaliserons dans deux ans dans notre programme.
 <p align="center">
   <img src="medias/moi_et_rada.jpg">
 </p>
@@ -12,8 +12,8 @@ Le **18 mars dans le collège Montmorency (local C1712),** ma classe d’œuvres
 <p align="center">
   <img src="medias/cartel_luminatura.jpg">
 </p>
-Luminatura est une installation interactive qui fusionne nature et technologie. En touchant une plaque métallique, le capteur capacitif détecte la conductivité de la peau des mains et en responce envoie des effets de lumière sur des fleurs lumineuses et des lanternes, aussi que des sons. En mettant en évidence la capacité humaine à transmettre l’énergie, elle symbolise notre pouvoir d’éclairer et de transformer le monde autour de nous, offrant une expérience immersive et poétique.<br> 
-Le projet a été en réalisation dès le 20 Janvier et finallement presenté le 21 mars 2025.
+Luminatura est une installation interactive qui fusionne nature et technologie. En touchant une plaque métallique, un capteur capacitif détecte la conductivité de la peau et, en réponse, déclenche des effets lumineux sur des fleurs illuminées et des lanternes, ainsi que des sons. En mettant en avant la capacité humaine à transmettre de l’énergie, cette œuvre symbolise notre pouvoir d’éclairer et de transformer le monde qui nous entoure, offrant une expérience immersive et poétique.<br> 
+Luminatura a été développé à partir du 20 janvier et finalement présenté le 21 mars 2025.
 
 ## Equipe
 <p align="center">
@@ -51,7 +51,7 @@ Développeur interactif</td>
 
 ### Experience des utulisateurs
 1.	*Interaction avec les plaques métalliques:* 
--	L’utilisateur se met devant la palque et le touche.
+-	L’utilisateur se place devant la palque et la touche.
 -	Le capteur de capacitance détecte la peau et modifie la lumière et l’audio selon les caractéristiques de l’utilisateur.
 2.	*Effet multi-utilisateurs:* 
 -	Jusqu'à trois participants simultanés influencent les variations sonores et lumineuses.
@@ -60,7 +60,7 @@ Développeur interactif</td>
 3.	*Structure et projection:* 
 -	Lanternes, ampoules et vignes suspendues au plafond.
 -	Projection vidéo au sol avec des couleurs ternes en veille et plus dynamiques en interaction.
-4. *Mode veille:*
+4. *Mode veille:* <br>
  	Lorsque tous les utilisateurs retirent leurs mains, l’installation revient à un état neutre avec des couleurs plus ternes et une ambiance sonore douce.
 
 ### Scénarimage fait par l'équipe
@@ -111,18 +111,19 @@ Développeur interactif</td>
 
 ### Logiciels
 - **Puredata** - Création musicale et multimédia en temps réel
-- **Plugdata** - Programmation visuel pour l’expérimentation audio, le prototypage
--	**TouchInDesigner** – Gestion des projections
+- **Plugdata** - Programmation visuelle pour l’expérimentation audio et le prototypage
+-	**TouchDesigner** – Gestion des projections
 -	**QLC+** – Gestion des lumières
 -	**Reaper** – Montage audio
 -	**Arduino** – Programmation des capteurs capacitifs
 
 ## Expérience vécue
-Mon experience: https://youtube.com/shorts/jXJaEOByhPg?feature=share 
-https://youtube.com/shorts/hTXFvGfL0nw
+<a href="https://youtube.com/shorts/hTXFvGfL0nw">Mon experience</a>
+
 ## Mon opinion
-J'ai vraiment aimé l'idée mignonne et inspirante, aussi que la réalisation fianle du projet. J'ai toujours aimé le thème de la lumière colorée et j'aimerais installer quelque chose de similaire chez moi. Je pourrais peut-être réaliser un projet similaire lorsque viendra le temps pour moi et mes camarades de classe de créer des projets finaux, même si tout cela semble très compliqué et demande beaucoup de travail. Cependant, après avoir parlé aux finissants, j'ai réalisé que tout n'est pas aussi effrayant qu'il y paraît, car nous ne sommes maintenant qu'en première année d'études. <br>
-La seule chose que je n'ai pas tellement apptrecié, étant un utilisateur, c'est que nous n'etendons vraiment le sons et que si je voudrais touches 3 plaques au même temps- je ne peux pas, car elles sont placées trop loigne.
+J’ai vraiment aimé cette idée à la fois mignonne et inspirante, ainsi que la réalisation finale du projet. J’ai toujours apprécié le thème de la lumière colorée, et j’aimerais installer quelque chose de similaire chez moi. Peut-être pourrais-je réaliser un projet du même genre lorsque viendra le moment, avec mes camarades, de créer nos projets finaux. Même si cela semble très complexe et demande beaucoup de travail, après avoir discuté avec les finissants, j’ai compris que ce n’est pas aussi effrayant qu’il y paraît – après tout, nous ne sommes qu’en première année d’études.
+
+La seule chose que j’ai moins appréciée en tant qu’utilisatrice, c’est que le son n’était pas vraiment perceptible. De plus, si je voulais toucher trois plaques en même temps, cela m’était impossible, car elles étaient placées trop loin les unes des autres.
 ## Sources
 <a href="https://miaou-mafia.github.io/projet-luminatura/#/10_equipe/">Sourse des images - equipe de Lumunatura sur GitHub</a> /
 <a href="https://youtu.be/i6xJno_NFSc">Video des auteurs</a> /
