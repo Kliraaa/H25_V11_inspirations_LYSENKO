@@ -5,7 +5,7 @@
 
 Le **18 mars dans le collège Montmorency (local C1712),** ma classe d’œuvres et de dispositifs multimédias a visité dans **l'éxposition intéractive** intérieure temporaire (17-21 mars 2025) **Résonance**, qui présente  les **projets des finissants du programme de techniques d'intégration multimédia**. Principalement destinée à tous les étudiants du collège Montmorency, cette exposition nous a permis de découvrir ce que nous réaliserons dans deux ans dans notre programme.
 
-# Prismatica
+<h1 align="center"> Prismatica</h1> 
 <div align="center">
   <img src="https://pootpookies.github.io/Prismatica/medias/images/logo/prismatica_logo_v2_dark_1024x.png" width="400px"> <img src="medias_resonance/prismatica_demonstration.jpg" width="400px">
 </div> <br>
@@ -22,8 +22,8 @@ Le **18 mars dans le collège Montmorency (local C1712),** ma classe d’œuvres
 
 ## Installation
 <div align="center">
-  <img src="https://pootpookies.github.io/Prismatica/medias/images/maquette/maquette_2.jpg" width="500px"> 
-  <img src="https://pootpookies.github.io/Prismatica/medias/images/plantation/plan1.jpg" width="500px">
+  <img src="https://pootpookies.github.io/Prismatica/medias/images/maquette/maquette_2.jpg" height="400px"> 
+  <img src="https://pootpookies.github.io/Prismatica/medias/images/plantation/plan1.jpg" height="400px">
 </div>
 
 ## Sensation
@@ -41,7 +41,7 @@ Ce qui m’a le plus intrigué, c'est la technique de capture vidéo de la planc
 <a href="https://pootpookies.github.io/Prismatica/#/">Source des photos et des informations</a>
 
 
-# Internature
+<h1 align="center">Internature</h1> 
 <div align="center">
   <img src="https://tprangers.github.io/internature/thumbnail.jpg" height="300px"> <img src="medias_resonance/internature_general.jpg" height="300px">
 </div> <br>
@@ -67,16 +67,20 @@ Ce qui m’a le plus intrigué, c'est la technique de capture vidéo de la planc
 </div>
 
 ## Sensation
-Je me santais comme une déesse qui contrôle le monde autour d'elle.
+Je me santais comme une déesse qui contrôle le monde autour d'elle. C'était facinant de se plonger dans ce tunel immersive de la nature. Cependant, parfois, j'ai eu l'impression que quand je tourne la balle, rien ne se changait ou ne fonctionnait pas comme désigné, par contre ce n'a pas abîmé l'experience.
+
+## Cours requis
+Pour réaliser ce projet, il nous faut étudier les cours de: ** Programmation interactive /  Audio / Traitement audiovisuel **
 
 ## Technique utilisée
+J'ai eu beaucoup de questions de fonctionnement pour l'équipe, car nous n'avons pas étudié la plupart de logiciels, des cours et des téchniques. Par exemple, la façon dont les étudiants ont dû ajuster avec précision les projections sur des surfaces arrondies en utilisant des logiciels de mapping. Je pensais, à tort, qu’un projecteur suffisait et que l’image se plaçait correctement sans correction.
 
 ## Sources
 <a href="https://tprangers.github.io/internature/#/">Source des photos et des informations</a>
 
 
 
-# Arcadia
+<h1 align="center">Arcadia</h1> 
 
 <div align="center">
   <img src="https://tim-montmorency.com/2025/medias/arcadia_panel.png" height="300px"> <img src="medias_resonance/arcadia_ecran.jpg" height="300px">
@@ -114,10 +118,10 @@ Ce qui m’a le plus intrigué, c'est comment ils ont reussi à changer des bout
 
 
 
-# C0NDU8
+<h1 align="center">C0NDU8</h1> 
 
 <div align="center">
-  <img src="https://gearshift-games.github.io/Web-C0N-DU8/medias/images/titre_c0ndu8.png" width="400px"> <img src="medias_resonance/prismatica_demonstration.jpg" width="400px">
+  <img src="https://gearshift-games.github.io/Web-C0N-DU8/medias/images/titre_c0ndu8.png" width="400px"> <img src="medias_resonance/conduit_experience.jpg" width="400px">
 </div> <br>
 <div align="center">
   <img src="medias_resonance/cartel_conduit.jpg" width="900px">
@@ -134,23 +138,23 @@ Ce qui m’a le plus intrigué, c'est comment ils ont reussi à changer des bout
 
 ## Installation
 <div align="center">
-  <img src="https://pootpookies.github.io/Prismatica/medias/images/maquette/maquette_2.jpg" width="500px"> 
-  <img src="https://pootpookies.github.io/Prismatica/medias/images/plantation/plan1.jpg" width="500px">
+  <img src="https://gearshift-games.github.io/Web-C0N-DU8/40_maquette/img/Projection.webp" height="400px">
+  <img src="https://gearshift-games.github.io/Web-C0N-DU8/30_production/60_plantation/plantation.webp" height="400px"> 
 </div>
 
 ## Sensation
-C'etait un bon experience de se sentir dans l'esthétique des années 80, en jouant à des jeux d'arcade. J'aime comment les auteurs ont bien recréé atmosphère retro avec les technologies modernes.
+
 
 ## Cours requis
 Pour réaliser ce projet, il nous faut étudier les cours de: **Programmation interactive / Design Graphique / Audio**
 
 ## Technique utilisée
 
-Ce qui m’a le plus intrigué, c'est comment ils ont reussi à changer des boutons "WASD" au commutateur pour déplacer de personage principal.
+Ce qui m’a le plus intrigué, c'est 
 
 ## Sources
  <a href="https://gearshift-games.github.io/Web-C0N-DU8/#/">Sources des photos et des informations</a>
 
-# Fuga
+<h1 align="center">Fuga</h1>  
 
-# Etheria
+<h1 align="center">Etheria</h1>  
