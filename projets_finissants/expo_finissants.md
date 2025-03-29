@@ -90,7 +90,7 @@ Je me santais comme une déesse qui contrôle le monde autour d'elle.
 
 ## Installation
 <div align="center">
-  <img src="https://pootpookies.github.io/Prismatica/medias/images/maquette/maquette_2.jpg" width="500px"> 
+  <img src="https://cousi-cousa.github.io/Arcadia/30_production/10_gestion_projet/plan_arcade.png" width="500px"> 
   <img src="https://pootpookies.github.io/Prismatica/medias/images/plantation/plan1.jpg" width="500px">
 </div>
 
@@ -111,10 +111,10 @@ Ce qui m’a le plus intrigué, c'est comment ils ont reussi à changer des bout
 # C0NDU8
 
 <div align="center">
-  <img src="" width="400px"> <img src="medias_resonance/prismatica_demonstration.jpg" width="400px">
+  <img src="https://gearshift-games.github.io/Web-C0N-DU8/medias/images/titre_c0ndu8.png" width="400px"> <img src="medias_resonance/prismatica_demonstration.jpg" width="400px">
 </div> <br>
 <div align="center">
-  <img src="medias_resonance/cartel_.jpg" width="900px">
+  <img src="medias_resonance/cartel_conduit.jpg" width="900px">
 </div> <br>
 
 ЗАМЕНИТЬ *Prismatica* est une installation interactive qui s’appuie sur la chromesthésie, une forme de synesthésie où les sons sont associés aux couleurs. L’utilisateur dessine sur un tableau blanc avec des marqueurs colorés, et une caméra reliée à TouchDesigner analyse les couleurs en temps réel. Chaque teinte génère une mélodie spécifique, en suivant le cercle chromatique de Newton. Cela crée une interaction où le dessin devient aussi une expérience sonore, fusionnant image et musique.
@@ -125,9 +125,6 @@ Ce qui m’a le plus intrigué, c'est comment ils ont reussi à changer des bout
 **Alexandre Gervais**: Programmeur <br>
 **Kevin Malric**: Responsable des médias <br>
 **Jérémy Roy Côté**: Programmeur 
-
-
-
 
 ## Installation
 <div align="center">
@@ -146,7 +143,7 @@ Pour réaliser ce projet, il nous faut étudier les cours de: **Programmation in
 Ce qui m’a le plus intrigué, c'est comment ils ont reussi à changer des boutons "WASD" au commutateur pour déplacer de personage principal.
 
 ## Sources
- <a href="https://cousi-cousa.github.io/Arcadia/#/">Sources des photos et des informations</a>
+ <a href="https://gearshift-games.github.io/Web-C0N-DU8/#/">Sources des photos et des informations</a>
 
 # Fuga
 
