@@ -33,7 +33,7 @@ C'était amusant d'explorer les différents effets des différents marqueurs.
 ## Cours requis
 Pour réaliser ce projet, il nous faut étudier les cours de: **Programmation interactive / Traitement audiovisuel / Audio**
 
-## Technique utilisé
+## Technique utilisée
 
 Ce qui m’a le plus intrigué, c'est la technique de capture vidéo de la planche à dessin, qui, grâce à une caméra, enregistre les dessins en temps réel, garantissant une synchronisation fluide et précise entre les éléments visuels et sonores.
 
@@ -71,17 +71,21 @@ Je me santais comme une déesse qui contrôle le monde autour d'elle.
 
 ## Technique utilisée
 
+## Sources
+<a href="https://tprangers.github.io/internature/#/">Source des photos et des informations</a>
+
+
 
 # Arcadia
 
 <div align="center">
-  <img src="" width="400px"> <img src="medias_resonance/prismatica_demonstration.jpg" width="400px">
+  <img src="https://tim-montmorency.com/2025/medias/arcadia_panel.png" height="300px"> <img src="medias_resonance/arcadia_ecran.jpg" height="300px">
 </div> <br>
 <div align="center">
   <img src="medias_resonance/cartel_arcadia.jpg" width="900px">
 </div> <br>
 
-ЗАМЕНИТЬ *Prismatica* est une installation interactive qui s’appuie sur la chromesthésie, une forme de synesthésie où les sons sont associés aux couleurs. L’utilisateur dessine sur un tableau blanc avec des marqueurs colorés, et une caméra reliée à TouchDesigner analyse les couleurs en temps réel. Chaque teinte génère une mélodie spécifique, en suivant le cercle chromatique de Newton. Cela crée une interaction où le dessin devient aussi une expérience sonore, fusionnant image et musique.
+*Arcadia* est un projet interactif qui plonge les participants dans l’ambiance des salles d’arcade d’autrefois. Son but est de recréer cette expérience nostalgique à travers un jeu inspiré des classiques du genre. Du design de la borne aux graphismes en pixel art, tout a été pensé pour offrir une immersion rétro authentique.
 
 ## Équipe
 **Dominic Yale**: Conception sonore <br>
@@ -91,7 +95,7 @@ Je me santais comme une déesse qui contrôle le monde autour d'elle.
 ## Installation
 <div align="center">
   <img src="https://cousi-cousa.github.io/Arcadia/30_production/10_gestion_projet/plan_arcade.png" width="500px"> 
-  <img src="https://pootpookies.github.io/Prismatica/medias/images/plantation/plan1.jpg" width="500px">
+  <img src="medias_resonance/installation_githubArcadia.jpg" width="500px">
 </div>
 
 ## Sensation
@@ -100,12 +104,14 @@ C'etait un bon experience de se sentir dans l'esthétique des années 80, en jou
 ## Cours requis
 Pour réaliser ce projet, il nous faut étudier les cours de: **Programmation interactive / Design Graphique / Audio**
 
-## Technique utilisé
+## Technique utilisée
 
 Ce qui m’a le plus intrigué, c'est comment ils ont reussi à changer des boutons "WASD" au commutateur pour déplacer de personage principal.
 
 ## Sources
  <a href="https://cousi-cousa.github.io/Arcadia/#/">Sources des photos et des informations</a>
+ <a href="https://tim-montmorency.com/2025/#/">Résonance</a>
+
 
 
 # C0NDU8
@@ -138,7 +144,7 @@ C'etait un bon experience de se sentir dans l'esthétique des années 80, en jou
 ## Cours requis
 Pour réaliser ce projet, il nous faut étudier les cours de: **Programmation interactive / Design Graphique / Audio**
 
-## Technique utilisé
+## Technique utilisée
 
 Ce qui m’a le plus intrigué, c'est comment ils ont reussi à changer des boutons "WASD" au commutateur pour déplacer de personage principal.
 
