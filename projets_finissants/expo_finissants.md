@@ -67,22 +67,86 @@ Ce qui m’a le plus intrigué, c'est la technique de capture vidéo de la planc
 </div>
 
 ## Sensation
-Je me santais comme une déesse qui contrôle le monde autour d'elle. ЗАКОНЧИТЬ
+Je me santais comme une déesse qui contrôle le monde autour d'elle.
 
-## Cours requis
-Pour réaliser ce projet, il nous faut étudier les cours de: **Traitement audiovisuel / Web 4 / Objets Interactif / Audio 2/**
-
-## Technique utilisé
-
-Ce qui m’a le plus intrigué, c'est la technique de capture vidéo de la planche à dessin, qui, grâce à une caméra, enregistre les dessins en temps réel, garantissant une synchronisation fluide et précise entre les éléments visuels et sonores. ЗАМЕНИТЬ 
-
-## Sources
-<a href="https://tprangers.github.io/internature/#/">Source des photos et des informations</a>
+## Technique utilisée
 
 
 # Arcadia
 
+<div align="center">
+  <img src="" width="400px"> <img src="medias_resonance/prismatica_demonstration.jpg" width="400px">
+</div> <br>
+<div align="center">
+  <img src="medias_resonance/cartel_arcadia.jpg" width="900px">
+</div> <br>
+
+ЗАМЕНИТЬ *Prismatica* est une installation interactive qui s’appuie sur la chromesthésie, une forme de synesthésie où les sons sont associés aux couleurs. L’utilisateur dessine sur un tableau blanc avec des marqueurs colorés, et une caméra reliée à TouchDesigner analyse les couleurs en temps réel. Chaque teinte génère une mélodie spécifique, en suivant le cercle chromatique de Newton. Cela crée une interaction où le dessin devient aussi une expérience sonore, fusionnant image et musique.
+
+## Équipe
+**Dominic Yale**: Conception sonore <br>
+**William Beauvais**: Conception visuel <br>
+**Anton Nukulin**: Programmation
+
+## Installation
+<div align="center">
+  <img src="https://pootpookies.github.io/Prismatica/medias/images/maquette/maquette_2.jpg" width="500px"> 
+  <img src="https://pootpookies.github.io/Prismatica/medias/images/plantation/plan1.jpg" width="500px">
+</div>
+
+## Sensation
+C'etait un bon experience de se sentir dans l'esthétique des années 80, en jouant à des jeux d'arcade. J'aime comment les auteurs ont bien recréé atmosphère retro avec les technologies modernes.
+
+## Cours requis
+Pour réaliser ce projet, il nous faut étudier les cours de: **Programmation interactive / Design Graphique / Audio**
+
+## Technique utilisé
+
+Ce qui m’a le plus intrigué, c'est comment ils ont reussi à changer des boutons "WASD" au commutateur pour déplacer de personage principal.
+
+## Sources
+ <a href="https://cousi-cousa.github.io/Arcadia/#/">Sources des photos et des informations</a>
+
+
 # C0NDU8
+
+<div align="center">
+  <img src="" width="400px"> <img src="medias_resonance/prismatica_demonstration.jpg" width="400px">
+</div> <br>
+<div align="center">
+  <img src="medias_resonance/cartel_.jpg" width="900px">
+</div> <br>
+
+ЗАМЕНИТЬ *Prismatica* est une installation interactive qui s’appuie sur la chromesthésie, une forme de synesthésie où les sons sont associés aux couleurs. L’utilisateur dessine sur un tableau blanc avec des marqueurs colorés, et une caméra reliée à TouchDesigner analyse les couleurs en temps réel. Chaque teinte génère une mélodie spécifique, en suivant le cercle chromatique de Newton. Cela crée une interaction où le dessin devient aussi une expérience sonore, fusionnant image et musique.
+
+## Équipe
+**Ian Corbin**: Mapping <br>
+**Samuel Desmeules Voyer**: Directeur artistique <br>
+**Alexandre Gervais**: Programmeur <br>
+**Kevin Malric**: Responsable des médias <br>
+**Jérémy Roy Côté**: Programmeur 
+
+
+
+
+## Installation
+<div align="center">
+  <img src="https://pootpookies.github.io/Prismatica/medias/images/maquette/maquette_2.jpg" width="500px"> 
+  <img src="https://pootpookies.github.io/Prismatica/medias/images/plantation/plan1.jpg" width="500px">
+</div>
+
+## Sensation
+C'etait un bon experience de se sentir dans l'esthétique des années 80, en jouant à des jeux d'arcade. J'aime comment les auteurs ont bien recréé atmosphère retro avec les technologies modernes.
+
+## Cours requis
+Pour réaliser ce projet, il nous faut étudier les cours de: **Programmation interactive / Design Graphique / Audio**
+
+## Technique utilisé
+
+Ce qui m’a le plus intrigué, c'est comment ils ont reussi à changer des boutons "WASD" au commutateur pour déplacer de personage principal.
+
+## Sources
+ <a href="https://cousi-cousa.github.io/Arcadia/#/">Sources des photos et des informations</a>
 
 # Fuga
 
