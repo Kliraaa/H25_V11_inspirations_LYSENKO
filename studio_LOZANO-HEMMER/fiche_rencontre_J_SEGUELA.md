@@ -1,8 +1,8 @@
+# Production des projets interactifs de Rafael Lozano-Hemmer
 
+![](./medias/presentation.jpg)
 
-
-
-Le **25 mars 2025 à *12h30 - 14h00* dans le collège Montmorency dans Salle Claude Legault (B1346),** ma classe d’œuvres et de dispositifs multimédias a visité **la conférence de Jade Séguéla **, qui présente **le studio de Rafael Lozano-Hemmer - *l'artiste multimédia canadien* **. Dans ce studio, basé à Montréal, lui et son équipe conçoivent des œuvres interactives, qui circulent à l'international. Destinée principalement à tous les étudiants du collège Montmorency, cette conférence nous a permis de découvrir quels projets nous pouvons réaliser après notre programme. Madame Séguéla nous a présenté quelques projets qu'ils ont construits et aussi elle a expliqué le processus de production.
+Le **25 mars 2025 à *12h30 - 14h00* dans le collège Montmorency dans Salle Claude Legault (B1346),** ma classe d’œuvres et de dispositifs multimédias a visité **la conférence de Jade Séguéla**, qui présente **le studio de Rafael Lozano-Hemmer - *l'artiste multimédia canadien***. Dans ce studio, basé à Montréal, lui et son équipe conçoivent des œuvres interactives, qui circulent à l'international. Destinée principalement à tous les étudiants du collège Montmorency, cette conférence nous a permis de découvrir quels projets nous pouvons réaliser après notre programme. Madame Séguéla nous a présenté quelques projets qu'ils ont construits et aussi elle a expliqué le processus de production.
 
 ## Contenu
 
