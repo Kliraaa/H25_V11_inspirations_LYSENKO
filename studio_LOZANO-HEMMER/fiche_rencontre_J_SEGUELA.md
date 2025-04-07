@@ -16,7 +16,7 @@ Elle a ensuite précisé que leur équipe catégorise les projets selon leur niv
 - **Passive**, comme marcher, regarder ou respirer,  
 - **Active**, comme parler ou appuyer sur un bouton.  
 
-Cependant, un point commun demeure essentiel pour tous les projets : ils doivent susciter des émotions chez l’utilisateur.trice, car c’est ce que Rafael Lozano-Hemmer valorise le plus. Elle a également partagé des dessins préparatoires réalisés par elle-même pour l’un des projets, où chaque vis était précisément indiquée.
+Cependant, un point commun demeure essentiel pour tous les projets : ils doivent susciter des émotions chez l’utilisateur.trice, car c’est ce que Rafael Lozano-Hemmer valorise le plus. Jade Séguéla a également partagé des dessins préparatoires réalisés par elle-même pour l’un des projets, où chaque vis était précisément indiquée.
 
 ![](./medias/cloud_display_sydney_2023_mk.jpg)
 
