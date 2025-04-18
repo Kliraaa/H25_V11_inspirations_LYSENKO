@@ -2,6 +2,7 @@
 
 ![photo](medias_biophare/moi_entree.png)
 
-Le **30 mars,** acopmpagnée par mon copin, j'ai fait une visite dans le **Musée Biophare à Sorel-Tracy** pour une exposition intéractive intérieure permanente **"L'observatoire du Lac-Saint-Pierre"** qui présente les projets des finissants du programme de techniques d'intégration multimédia. Principalement destinée à tous les étudiants du collège Montmorency, cette exposition nous a permis de découvrir ce que nous réaliserons dans deux ans dans notre programme...
+Le **30 mars,** acopmpagnée par mon copin, j'ai fait une visite dans le **Musée Biophare à Sorel-Tracy** pour une exposition intéractive intérieure permanente **"L'observatoire du lac Saint-Pierre"** qui présente les principales caractéristiques de la région du lac Saint-Pierre. Je suis déjà allée dans ce musée, mais j'ai décidé de repeter mon experience pour payer plus d'attention pour les dispositifs intéractifs.
+
 https://youtu.be/isik75kDDMA
-https://biophare.com/collections/reserve-biosphere-lac-saint-pierre/
+*Source des informations: [Site web de Biophare](https://biophare.com/collections/reserve-biosphere-lac-saint-pierre/)*
