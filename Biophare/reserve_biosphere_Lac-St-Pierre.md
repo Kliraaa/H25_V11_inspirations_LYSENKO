@@ -11,7 +11,7 @@ Le **30 mars,** acopmpagnée par mon copin, j'ai fait une visite dans le **Musé
 
 ## Informations générales
 
-En parlant avec le personnel du Biophare et en faisant des recherches sur le site web du musée, j’ai réussi à obtenir des informations concernant ce dispositif, car il n’y avait aucun cartel contenant les renseignements dont j’avais besoin.
+En parlant avec le personnel du Biophare et en faisant des recherches sur le site web du musée, j’ai réussi à obtenir des informations concernant ce dispositif, car il n’y avait aucun cartel contenant les renseignements dont j’avais besoin.<br>
 Créée par **Multiversions (maquette) et Jean-François Touzin Inc – CréationZ (contour)**, et acquise par le Biophare en **2009**, cette maquette présente de façon interactive les différents lieux autour du lac Saint-Pierre.
 
 <p align="center"><img src="medias_biophare/vue_generale.JPG"></p>
@@ -22,6 +22,8 @@ Créée par **Multiversions (maquette) et Jean-François Touzin Inc – Créatio
 
 ![photo](medias_biophare/iles_gauche.JPG)
 ![photo](medias_biophare/iles_droit.JPG)
+
+La carte affiche différents endroits sous forme de modèles volumétriques et de textures. De plus, sur les îles, il y a differentes plaques avec les noms de ces îles. 
 
 ### Les cartels avec les informations
 ![photo](medias_biophare/cartels/gros_cartel_navigation.JPG)
@@ -82,17 +84,30 @@ Créée par **Multiversions (maquette) et Jean-François Touzin Inc – Créatio
 </table>
 
 ## Mise en espace 
-<p align="center"><img src="medias_biophare/croquis_fils.jpg"></p>
-Le dispositif est situé à la fin du couloir de l’exposition, dans une grande pièce entourée d'autres maquettes et de décorations.
-Au-dessus du modèle, des lanternes et des feuilles décoratives colorées translucides et des oiseaux sont suspendus.
-Lors de l'examen du maquette, l'utilisateur ne voit aucun fil, j'ai donc supposé qu'ils se trouvaient à l'intérieur du modèle et sous la table. J'ai demandé à l'employée du musée si elle savait où se trouvaient ces fils, et elle m'a répondu qu'elle n'en était pas sûre, mais qu'il y avait une pièce dans les toilettes pour hommes où tous les fils et le câblage électrique étaient connectés. J'ai été autorisé à prendre une photo de la porte, mais c'etait interdi d'entrer pour des raisons de sécurité et de confidentialité.
-<p align="center"><img src="medias_biophare/fils_toilette.jpg"></p>
+<p align="center"><img src="medias_biophare/croquis_fils.jpg" width="700px"></p>
+Le dispositif est situé à la fin du couloir de l’exposition, dans une grande pièce entourée d'autres maquettes et de décorations. <br>
+Au-dessus du modèle, des lanternes et des feuilles décoratives colorées translucides et des oiseaux sont suspendus. <br>
+Lors de l'examen du maquette, l'utilisateur ne voit aucun fil, j'ai donc supposé qu'ils se trouvaient à l'intérieur du modèle et sous la table. J'ai demandé à l'employée du musée si elle savait où se trouvaient ces fils, et elle m'a répondu qu'elle n'en était pas sûre, mais qu'il y avait une pièce dans les toilettes pour hommes où tous les fils et le câblage électrique étaient connectés. J'ai été autorisé à prendre une photo de la porte, mais c'etait interdi d'entrer pour des raisons de sécurité et de confidentialité. <br>
+
+<p align="center"><img src="medias_biophare/fils_toilette.JPG" width="700px"></p>
 
 ## Fonctionnement
 <p align="center"><img src="medias_biophare/cartel_beau.JPG"></p>
 
+<ol>
+  <li>L'utilisateur entre dans le coulloir et s'approce vers le dispositif.</li>
+  <li>L'utilisateur ananlyse les cartels et la carte.</li>
+  <li>L'utilisateur lit les informations sur le carte sur le lieu de son intérêt.</li>
+  <li>L'utilisateur appuie sur un bouton et remarque qu'une lumière s'allume et comprend l'emplacement du lieu d'intérêt.</li>
+</ol>
+
+<p align="center"><img src="medias_biophare/lumiere.JPG"></p>
+
 Pour vous mieux expliquer le fonctionnement du dispositif et décrire l'experience d'iutilisateur, j'ai tourné [le vidéo explicatif](https://youtu.be/isik75kDDMA)
 
 ## Expérience vécue
+Généralement, j'ai apprecié beaucoup mon experience. L'exposition est faite en forme d'un coulloir ondulé qui permette à l'utilisateur à explorer les dispositif l'un après l'autre. Quant à ce modèle, à mon avis personnel, c'est l'exposition la plus mémorable de ce musée. <br>
+Ce qui a légèrement gâché l'impression du dispositif, c'est que les petites ampoules sont difficiles à remarquer en raison de l'éclairage intense de la pièce. Il n'y avait pas non plus de boussole sur la carte, donc au début, il était difficile de déterminer quelle partie du Québec la carte montrait et si je regardais du bon côté.
 
 ## Resources
+*Source des informations: [Site web de Biophare](https://biophare.com/collections/reserve-biosphere-lac-saint-pierre/)*
