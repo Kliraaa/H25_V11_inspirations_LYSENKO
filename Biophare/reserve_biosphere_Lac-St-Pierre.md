@@ -83,7 +83,8 @@ Le dispositif est situé à la fin du couloir de l’exposition, dans une grande
 </table>
 
 ## Fonctionnement
-![photo](medias_biophare/cartel_beau.JPG)
+<p align="center"><img src="medias_biophare/cartel_beau.JPG"></p>
 
-https://youtu.be/isik75kDDMA
+Pour vous mieux expliquer le fonctionnement du dispositif et décrire l'experience d'iutilisateur, j'ai tourné [le vidéo explicatif](https://youtu.be/isik75kDDMA)
+
 
