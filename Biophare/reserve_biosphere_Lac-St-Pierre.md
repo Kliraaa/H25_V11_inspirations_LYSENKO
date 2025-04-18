@@ -21,6 +21,9 @@ En parlant avec le personel de Biophare en en faisant la recherche sur le site w
 ![photo](medias_biophare/iles_gauche.JPG)
 ![photo](medias_biophare/iles_droit.JPG)
 
+### Les cartels avec les informations
+![photo](medias_biophare/cartels/gros_cartel_navigation.JPG)
+
 <table align="center">
 <tr>
 <td><img src="medias_biophare/cartels/cartel_abenakis.JPG" width="500px"></td>
