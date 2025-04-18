@@ -13,7 +13,6 @@ Le **30 mars,** acopmpagnée par mon copin, j'ai fait une visite dans le **Musé
 
 En parlant avec le personnel du Biophare et en faisant des recherches sur le site web du musée, j’ai réussi à obtenir des informations concernant ce dispositif, car il n’y avait aucun cartel contenant les renseignements dont j’avais besoin.
 Créée par **Multiversions (maquette) et Jean-François Touzin Inc – CréationZ (contour)**, et acquise par le Biophare en **2009**, cette maquette présente de façon interactive les différents lieux autour du lac Saint-Pierre.
-Le dispositif est situé à la fin du couloir de l’exposition, dans une grande pièce entourée d'autres maquettes et de décorations.
 
 <p align="center"><img src="medias_biophare/vue_generale.JPG"></p>
 
@@ -82,9 +81,18 @@ Le dispositif est situé à la fin du couloir de l’exposition, dans une grande
 
 </table>
 
+## Mise en espace 
+<p align="center"><img src="medias_biophare/croquis_fils.jpg"></p>
+Le dispositif est situé à la fin du couloir de l’exposition, dans une grande pièce entourée d'autres maquettes et de décorations.
+Au-dessus du modèle, des lanternes et des feuilles décoratives colorées translucides et des oiseaux sont suspendus.
+Lors de l'examen du maquette, l'utilisateur ne voit aucun fil, j'ai donc supposé qu'ils se trouvaient à l'intérieur du modèle et sous la table. J'ai demandé à l'employée du musée si elle savait où se trouvaient ces fils, et elle m'a répondu qu'elle n'en était pas sûre, mais qu'il y avait une pièce dans les toilettes pour hommes où tous les fils et le câblage électrique étaient connectés. J'ai été autorisé à prendre une photo de la porte, mais c'etait interdi d'entrer pour des raisons de sécurité et de confidentialité.
+<p align="center"><img src="medias_biophare/fils_toilette.jpg"></p>
+
 ## Fonctionnement
 <p align="center"><img src="medias_biophare/cartel_beau.JPG"></p>
 
 Pour vous mieux expliquer le fonctionnement du dispositif et décrire l'experience d'iutilisateur, j'ai tourné [le vidéo explicatif](https://youtu.be/isik75kDDMA)
 
+## Expérience vécue
 
+## Resources
