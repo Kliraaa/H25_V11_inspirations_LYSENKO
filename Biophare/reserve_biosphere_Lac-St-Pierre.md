@@ -18,6 +18,8 @@ En parlant avec le personel de Biophare en en faisant la recherche sur le site w
 
 ## Lieux
 
+![photo](medias_biophare/iles_gauche.JPG)
+![photo](medias_biophare/iles_droit.JPG)
 
 <table align="center">
 <tr>
