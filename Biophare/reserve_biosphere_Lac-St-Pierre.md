@@ -10,7 +10,10 @@ Le **30 mars,** acopmpagnée par mon copin, j'ai fait une visite dans le **Musé
 ![photo](medias_biophare/baniere.jpg)
 
 ## Informations générales
-En parlant avec le personel de Biophare en en faisant la recherche sur le site web de musée, j'ai réussi à obtenir des informations concernant ce dispositif, car il n'y avait aucun cartel avec des informations dont j'ai besoin. **Crée par Multiversions (maquette) et Jean-François Touzin Inc – CréationZ (contour)** et acquit par le Biophare en **2009**, cette maquette presente en façon intéractif les lieux divérses au tours de lac Saint-Pierre. Le dispositif est situé à la fin du coulloir de l'exposition dans une grande pièce, entouré par les autes maquettes et les décorations.
+
+En parlant avec le personnel du Biophare et en faisant des recherches sur le site web du musée, j’ai réussi à obtenir des informations concernant ce dispositif, car il n’y avait aucun cartel contenant les renseignements dont j’avais besoin.
+Créée par **Multiversions (maquette) et Jean-François Touzin Inc – CréationZ (contour)**, et acquise par le Biophare en **2009**, cette maquette présente de façon interactive les différents lieux autour du lac Saint-Pierre.
+Le dispositif est situé à la fin du couloir de l’exposition, dans une grande pièce entourée d'autres maquettes et de décorations.
 
 <p align="center"><img src="medias_biophare/vue_generale.JPG"></p>
 
@@ -23,6 +26,9 @@ En parlant avec le personel de Biophare en en faisant la recherche sur le site w
 
 ### Les cartels avec les informations
 ![photo](medias_biophare/cartels/gros_cartel_navigation.JPG)
+
+24 cartels des lieux sont situés autour de la maquette, sur son bord. On peut voir les informations en deux langues : français et anglais, disposées l'une en dessous de l'autre. Les cartels présentent le nom des lieux ainsi que des informations plus détaillées sur chacun d’eux. Après le texte, le nom du photographe qui a pris la photo est indiqué.
+
 
 <table align="center">
 <tr>
@@ -76,8 +82,8 @@ En parlant avec le personel de Biophare en en faisant la recherche sur le site w
 
 </table>
 
-
 ## Fonctionnement
+![photo](medias_biophare/cartel_beau.JPG)
 
 https://youtu.be/isik75kDDMA
 
