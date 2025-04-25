@@ -26,3 +26,7 @@ Ce léger décalage entre les deux interprétations souligne à quel point chaqu
 </table>
 
 ### Mise en espace
+
+
+*Source des informations: [Site web de MBAM](https://www.mbam.qc.ca/fr/expositions/anri-sala/)*
+*Source des photos: Iryna Lysenko*
