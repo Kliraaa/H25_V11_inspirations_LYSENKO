@@ -4,7 +4,7 @@
   <em>Photo prise par Iryna Lysenko</em>
 </div> <br>
 
-Le **4 avril, au Musée des beaux-arts de Montréal,** ma classe d’œuvres et de dispositifs multimédias a visité **une œuvre d'art et une exposition intitulée _Ravel Ravel Interval_**, du même nom que l’œuvre principale, par **Anri Sala**, qui présente **une installation vidéo immersive temporaire**(jusqu'au 27 avril 2025). Principalement destinée à tous les résidents de Montréal, cette exposition nous a permis de découvrir ce que nous pourrons réaliser dans deux ans dans notre programme.  
+Le **4 avril, au Musée des beaux-arts de Montréal,** ma classe d’œuvres et de dispositifs multimédias a visité **une œuvre d'art et une exposition intitulée _Ravel Ravel Interval_**, du même nom que l’œuvre principale, par **Anri Sala**, qui présente **une installation vidéo immersive temporaire** (jusqu'au 27 avril 2025). Principalement destinée à tous les résidents de Montréal, cette exposition nous a permis de découvrir ce que nous pourrons réaliser dans deux ans dans notre programme.  
 *Source des informations : [Site web du MBAM](https://www.mbam.qc.ca/fr/expositions/anri-sala/)*  
 <p align="center">
   <img src="medias_ravel/moi_et_amis.jpg" width="700px">
